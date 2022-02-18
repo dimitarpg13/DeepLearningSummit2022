@@ -4,3 +4,6 @@
 [submodule "Unity-Robotics-Hub"]
 	path = Unity-Robotics-Hub
 	url = https://github.com/dimitarpg13/Unity-Robotics-Hub.git
+[submodule "cflow-ad"]
+	path = cflow-ad
+	url = https://github.com/dimitarpg13/cflow-ad.git
